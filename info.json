@@ -1,8 +1,8 @@
 {
-  "name": "electric_pole_light_mod",
+  "name": "Street_light",
   "version": "0.1.0",
   "title": "Electric Pole Light Mod",
-  "author": "Your Name",
+  "author": "Dave",
   "description": "Adds light functionality to all electric poles.",
-  "factorio_version": "1.1"
+  "factorio_version": "2.0"
 }
